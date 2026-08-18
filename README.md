@@ -1,4 +1,4 @@
-# VSense ΓÇö An Assistive App for the Visually Impaired
+# VSense — An Assistive App for the Visually Impaired
 
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen) ![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?logo=android&logoColor=white) ![Powered by](https://img.shields.io/badge/Powered_by-AI-blue)
 
@@ -6,27 +6,27 @@ A smart, voice-controlled Android app that helps visually impaired people naviga
 
 ---
 
-## ≡ƒîƒ What It Can Do
+## 🌟 What It Can Do
 
-### ≡ƒº¡ Easy Navigation
-*   **≡ƒÄº 3D Sound Feedback:** The app plays sounds to let you know exactly where objects are around you (left, right, near, or far).
-*   **≡ƒôì Object Memory:** The app remembers where things are. If you walk past a cup, you can ask "Where is my cup?" and it will tell you.
-*   **≡ƒöì Find Mode:** Ask the app to "Find a door" or "Find a chair," and it will guide you to it using sound and vibrations.
+### 🧭 Easy Navigation
+*   **🎧 3D Sound Feedback:** The app plays sounds to let you know exactly where objects are around you (left, right, near, or far).
+*   **📍 Object Memory:** The app remembers where things are. If you walk past a cup, you can ask "Where is my cup?" and it will tell you.
+*   **🔍 Find Mode:** Ask the app to "Find a door" or "Find a chair," and it will guide you to it using sound and vibrations.
 
-### ≡ƒºá Smart Vision
-*   **≡ƒô╖ Instant Object Detection:** Uses the phone's camera to instantly spot obstacles and things in your path, without needing the internet.
-*   **≡ƒñû Scene Description:** Ask "Describe what you see," and the app will tell you exactly what the room looks like.
-*   **≡ƒôû Read Text (OCR):** Point the camera at a sign or book, and it will read the text out loud.
-*   **≡ƒÿè Facial Recognition:** Recognizes people you know when they are nearby and tells you their names.
+### 🧠 Smart Vision
+*   **📷 Instant Object Detection:** Uses the phone's camera to instantly spot obstacles and things in your path, without needing the internet.
+*   **🖼️ Scene Description:** Ask "Describe what you see," and the app will tell you exactly what the room looks like.
+*   **📖 Read Text (OCR):** Point the camera at a sign or book, and it will read the text out loud.
+*   **😊 Facial Recognition:** Recognizes people you know when they are nearby and tells you their names.
 
-### ≡ƒ¢í∩╕Å Safety First
-*   **≡ƒÄÖ∩╕Å Voice Control:** Control everything using just your voice. No need to look at the screen.
-*   **≡ƒÜ¿ Fall SOS:** If the phone detects you have fallen, it automatically sends an emergency SOS message to your contacts.
-*   **≡ƒöª Manual & Auto-Flashlight:** You can turn the flashlight on and off yourself with a voice command, or let the app do it automatically in the dark so the camera can keep seeing clearly.
+### 🛡️ Safety First
+*   **🎙️ Voice Control:** Control everything using just your voice. No need to look at the screen.
+*   **🚨 Fall SOS:** If the phone detects you have fallen, it automatically sends an emergency SOS message to your contacts.
+*   **🔦 Manual & Auto-Flashlight:** You can turn the flashlight on and off yourself with a voice command, or let the app do it automatically in the dark so the camera can keep seeing clearly.
 
 ---
 
-## ≡ƒÅù∩╕Å How It Works (Diagrams)
+## 🏗️ How It Works (Diagrams)
 
 ### 1. The Big Picture
 
@@ -94,7 +94,7 @@ graph TD
 
 ---
 
-## ≡ƒ¢á∩╕Å Technology Used
+## 🛠️ Technology Used
 
 | Part | Tech |
 | :--- | :--- |
@@ -106,7 +106,7 @@ graph TD
 
 ---
 
-## ≡ƒÜÇ How to Run It
+## 🚀 How to Run It
 
 1. **Download** this code to your computer.
 2. Open it in **Android Studio**.
@@ -122,11 +122,11 @@ graph TD
 
 ---
 
-## ≡ƒô¥ Voice Commands to Try
+## 🗣️ Voice Commands to Try
 
-*   ≡ƒùú∩╕Å *"Describe what you see"*
-*   ≡ƒùú∩╕Å *"Find a chair"*
-*   ≡ƒùú∩╕Å *"Where is my cup?"*
-*   ≡ƒùú∩╕Å *"Read"*
-*   ≡ƒùú∩╕Å *"Turn off flashlight"*
-*   ≡ƒùú∩╕Å *"Switch to spatial"* (for 3D sound)
+*   🗣️ *"Describe what you see"*
+*   🗣️ *"Find a chair"*
+*   🗣️ *"Where is my cup?"*
+*   🗣️ *"Read"*
+*   🗣️ *"Turn off flashlight"*
+*   🗣️ *"Switch to spatial"* (for 3D sound)
